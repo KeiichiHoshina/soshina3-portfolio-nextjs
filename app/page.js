@@ -26,7 +26,7 @@ const Index = () => {
                             Born in Tokyo in the late 1970s.<br />
                             Around 2004, he took a web design course at a web school, and since then has been involved in website production as an HTML coder.
                             Recently, he is learning coding using components such as React.<br />
-                            This page was created with React/Next.js.
+                            * This page was created with React/Next.js.
                         </p>
                     </div>
                     <div>
